@@ -1,0 +1,87 @@
+{
+    "list": [
+    {
+        "sl_no":1,
+        "name":"Rice",
+        "quantity":8,
+        "unit":"Kilo Gram",
+        "department":"Grocery",
+        "notes":"Kerala Matta Rice"
+    },
+    {
+        "sl_no":2,
+        "name":"Biscuits",
+        "quantity":3,
+        "unit":"Packets",
+        "department":"Snacks",
+        "notes":"Oreo"
+    },
+    {
+        "sl_no":3,
+        "name":"Watermelon",
+        "quantity":4.5,
+        "unit":"Kilo Gram",
+        "department":"Fruites",
+        "notes":"Fresh"
+    },
+    
+    {
+        "sl_no":4,
+        "name":"Cooking Oil",
+        "quantity":2,
+        "unit":"Litre",
+        "department":"Grocery",
+        "notes":"Sunflower"
+    },
+    {
+        "sl_no":5,
+        "name":"Tomato",
+        "quantity":1.5,
+        "unit":"Kilo Gram",
+        "department":"Vegetables",
+        "notes":"Fresh"
+    },
+    {
+        "sl_no":6,
+        "name":"Mask",
+        "quantity":4,
+        "unit":"Number",
+        "department":"Health Products",
+        "notes":"N95 Mask"
+    },
+    {
+        "sl_no":7,
+        "name":"Sugar",
+        "quantity":3,
+        "unit":"Kilo Gram",
+        "department":"Grocery",
+        "notes":"White Sugar"
+    },
+    {
+        "sl_no":8,
+        "name":"Toothpaste",
+        "quantity":1,
+        "unit":"Number",
+        "department":"Hygiene",
+        "notes":"Closeup"
+    },
+
+    {
+        "sl_no":9,
+        "name":"Milk",
+        "quantity":2,
+        "unit":"Packets",
+        "department":"Dairy & Eggs",
+        "notes":"Milma"
+    },
+    {
+        "sl_no":10,
+        "name":"Sanitizer",
+        "quantity":5,
+        "unit":"Number",
+        "department":"Health Products",
+        "notes":"DETTOL hand sanitizer"
+    }
+   
+]
+}
